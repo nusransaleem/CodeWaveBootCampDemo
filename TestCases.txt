@@ -1,0 +1,12 @@
+Verify Successful User Authentication with Valid Credentials.
+Verify Multi-language Support and UI Localization (English/Sinhala).
+Verify Product Search Accuracy for Specific Keywords.
+Verify Search Auto-Suggestion Relevance and Visibility.
+Verify Search Results Filtering by Price Range (Min/Max).
+Verify Search Results Filtering by Brand Selection.
+Verify "Add to Cart" Functionality and Cart Badge Update.
+Verify Cart Persistence After Page Reload.
+Verify Item Removal and Cart Total Update.
+
+Are the graphics high quality, or do they look blurry/unprofessional?
+Observe the Banner Advertisements.
