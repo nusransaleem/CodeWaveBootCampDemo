@@ -1,0 +1,45 @@
+{
+  "user": {
+    "email": "codewaveautomation@gmail.com",
+    "password": "CodeWaveTeste@001",
+    "displayName": "CodeWaveTester's account",
+    "language": "en"
+  },
+  "products": {
+    "phones": {
+      "search_key": "samsung galaxy",
+      "brand": "samsung",
+      "model": "S26",
+      "max_price":"",
+      "min_price":""
+    },
+    "headphones": {
+      "search_key": "headphones",
+      "brand": "JBL",
+      "model": "700BT",
+      "max_price":"",
+      "min_price":""
+    },
+    "watches": {
+      "search_key": "smart watches",
+      "brand": "",
+      "model": "T900",
+      "max_price":"1000",
+      "min_price":"5000"
+    },
+    "bottles": {
+      "search_key": "bottle",
+      "brand": "",
+      "model": "500ml",
+      "max_price":"",
+      "min_price":""
+    },
+    "laptops": {
+      "search_key": "laptops",
+      "brand": "Apple",
+      "model": "Pro M4",
+      "max_price":"",
+      "min_price":""
+    }
+  }
+}
