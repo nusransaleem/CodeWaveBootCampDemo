@@ -41,7 +41,7 @@ test.describe('Cart Management Flow', () => {
         // Close the success dialog to clean up the UI
         await page.locator('.next-dialog-close').click();
 
-        // Assert cart badge count (assuming starting from 0)
+        // Assert cart badge count
         await expect(daraz.cartBadge).toHaveText((Number(beforeCartItemCount) + 1).toString());
     });
 
