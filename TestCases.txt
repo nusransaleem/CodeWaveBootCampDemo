@@ -10,3 +10,5 @@ Verify Item Removal and Cart Total Update.
 
 Are the graphics high quality, or do they look blurry/unprofessional?
 Observe the Banner Advertisements.
+
+Add to Cart
